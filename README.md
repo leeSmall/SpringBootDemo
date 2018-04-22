@@ -1,4 +1,4 @@
-# SpringBootDemo学习的一些demo，目录结构如下，大家可以结合我的个人博客（http://www.cnblogs.com/leeSmall/）的SpringBoot系列来查看和学习
+# SpringBoot学习的一些demo，目录结构如下，大家可以结合我的个人博客（http://www.cnblogs.com/leeSmall/）的SpringBoot系列来查看和学习
 1A_SpringBoot快速启动.rar  
 2A_SpringBoot基本概念（统一父pom管理）.rar  
 2B_SpringBoot基本概念（SpringBoot代码测试）.rar  
